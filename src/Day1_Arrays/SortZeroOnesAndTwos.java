@@ -22,3 +22,5 @@ public class SortZeroOnesAndTwos {
         int temp = a[i]; a[i] = a[j]; a[j] = temp;
     }
 }
+//Time Complexity =O(n)
+//Space Complexity =O(1)
